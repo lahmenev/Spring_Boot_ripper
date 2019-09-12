@@ -15,7 +15,7 @@ sending email on console. It is same logic as we have custom DataSource configur
 #Getting started
 
 
-- git clone 
+- git clone https://github.com/lahmenev/Boot-ripper-starter.git
 - mvn install
 - git clone https://github.com/lahmenev/Spring_Boot_ripper.git
 - mvn spring-boot:run
