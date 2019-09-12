@@ -1,0 +1,5 @@
+prod:
+  mails:
+    - ser.lakhmenev1993@mail.ru
+    - ser.lakhmenev123@gmail.com
+  notification: true
